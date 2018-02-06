@@ -1,6 +1,6 @@
 def my_hash
   my_hash = {}
-  my_hash = {thing1 => thing2 , thing3 => thing4}
+  my_hash = {"thing1" => "thing2" , "thing3" => "thing4"}
 end
 
 
