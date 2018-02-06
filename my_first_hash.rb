@@ -5,7 +5,8 @@ end
 
 
 def shipping_manifest
-  shipping_manifest = new.Hash
+  shipping_manifest = Hash.new 
+  shipping_manifest = { "5 whale bone corsets" => 5, "2 porcelain vases" => 2, "oil paintings" => 5}
   #We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 
